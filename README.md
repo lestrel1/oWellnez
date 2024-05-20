@@ -11,6 +11,9 @@ Users can interact with the website in various ways:
 
 Striving to create a supportive and inclusive community where individuals can learn, grow, and thrive.
 
+
+**Website View:**
+
 <img width="1440" alt="Screenshot 2024-05-20 at 5 47 06 PM" src="https://github.com/lestrel1/oWellnez/assets/99330876/ab1dd8eb-5558-4c9d-b524-02cbd5f6d20b">
 
 <img width="1440" alt="Screenshot 2024-05-20 at 5 49 04 PM" src="https://github.com/lestrel1/oWellnez/assets/99330876/68177b16-dbef-45f6-996d-e093589274d7">
